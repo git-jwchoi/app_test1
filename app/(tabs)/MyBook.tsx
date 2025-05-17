@@ -10,6 +10,8 @@ import {
   View,
 } from "react-native";
 
+// APP TEST 1
+
 type Project = {
   id: string;
   title: string;
